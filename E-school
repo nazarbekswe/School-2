@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7-mektep</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+    <a href="#" class="logo">E-school</a>
+    <a href="#">Klaslar</a>
+    <a href="#">Mugallimler</a>
+    <a href="#">Panler</a>
+    <a href="#">Biz haqimizda</a>
+
+    <hr>
+
+    <h1>Bizin zamanagoy mektebimizge xosh kelidiniz!</h1>
+
+    <img src="https://thumbs.dreamstime.com/b/school-building-flat-vector-linear-illustration-isolated-white-background-icon-387614966.jpg" 
+         alt="school img" width="300">
+</body>
+</html>
